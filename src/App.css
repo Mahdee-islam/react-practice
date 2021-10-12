@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+.blog {
+  background-color: cornflowerblue;
+  border: 3px solid teal;
+  margin: 20px;
+}
+.user {
+  background-color: steelblue;
+  color: white;
+  border-radius: 15px;
+  border: 3px solid blue;
+  margin: 50px;
+}
